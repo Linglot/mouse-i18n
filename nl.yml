@@ -1,0 +1,8 @@
+nl:
+  help:
+    title: 'Embed Title'
+    native: ;Dit commando voegt je moedertaal toe. Doe dit eerst!
+    fluent: ;Dit commando is voor talen die je vlot spreekt.
+    learning: ;Dit commando is voor de talen die je leert.
+    role: ;Als je andere rollen wil, gebruik je dit commando. Opm. je moet eerst je moedertaal aangeven voor je andere rolen kan nemen.
+    top10: ;Hiermee kan je de top 10 talen van de server zien.
