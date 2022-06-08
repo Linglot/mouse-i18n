@@ -1,7 +1,7 @@
 en:
   help:
     title: ':mouse: Help'
-    desc: "The following commands are available:"
+    desc: 'The following commands are available:'
     native: "Adds a native language tag to you. **_Use this first!_**\n**Usage**: `;native <LANGUAGE>`\n**Examples**: `;native English`, `;native Japanese`"
     fluent: "Adds a fluent language tag to you.\n**Usage**: `;fluent <LANGUAGE>`\n**Examples**: `;fluent English`, `;fluent Japanese`"
     learning: "Adds a learning language tag to you.\n**Usage**: `;learning <LANGUAGE>`\n**Examples**: `;learning English`, `;learning Japanese`"
