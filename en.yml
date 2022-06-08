@@ -1,0 +1,8 @@
+en:
+  help:
+    title: ':mouse: Help'
+    native: "Adds a native language tag to you. **_Use this first!_**\n**Usage**: `;native <LANGUAGE>`\n**Examples**: `;native English`, `;native Japanese`"
+    fluent: "Adds a fluent language tag to you.\n**Usage**: `;fluent <LANGUAGE>`\n**Examples**: `;fluent English`, `;fluent Japanese`"
+    learning: "Adds a learning language tag to you.\n**Usage**: `;learning <LANGUAGE>`\n**Examples**: `;learning English`, `;learning Japanese`"
+    role: "Adds the specified role to you. Please note, you **_MUST_** add a native language tag first before assigning other roles.\n**Usage**: `;role <ROLE NAME>`\n **Examples**: `;role Lurker`, `;role Correct me!`, `;role Native English`"
+    top10: "Shows the top 10 roles (by member count) for native, fluent, and learning tags.\n**Usage**: `;top10`"
