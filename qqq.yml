@@ -1,6 +1,7 @@
 qqq:
   help:
     title: 'Embed Title'
+    description: embed description
     native: ;native description
     fluent: ;fluent description
     learning: ;learning description
